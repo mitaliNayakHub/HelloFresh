@@ -1,0 +1,59 @@
+14:40:03,504 DEBUG TestLogger:39 – New driver instantiated
+14:40:04,651 DEBUG TestLogger:39 – Maximixing the browser for test
+14:40:19,036 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+14:40:19,036  INFO TestLogger:23 – The browser has started
+14:40:19,038  INFO TestLogger:12 – ---------X-------X---------X     ****Checkout Test S T A R T ****   X---------X-------X---------
+14:40:26,238  INFO TestLogger:23 – Email Id enteredhf_challenge_123456@hf123456.com
+14:41:49,348  INFO TestLogger:23 – Clicked on logout element
+14:41:49,375  INFO TestLogger:17 – ---------X-------X---------X     ****  End of Checkout Test E N D ****   X---------X-------X---------
+14:41:49,375  INFO TestLogger:17 – ---------X-------X---------X     **** Checkout Test E N D ****   X---------X-------X---------
+14:41:49,424 DEBUG TestLogger:39 – The browser has closed
+14:41:49,424  INFO TestLogger:17 – ---------X-------X---------X     **** Test Case Ended E N D ****   X---------X-------X---------
+15:28:04,611 DEBUG TestLogger:39 – New driver instantiated
+15:28:05,777 DEBUG TestLogger:39 – Maximixing the browser for test
+15:28:11,520 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+15:28:11,520  INFO TestLogger:23 – The browser has started
+15:28:11,535  INFO TestLogger:12 – ---------X-------X---------X     ****SignIn Test S T A R T ****   X---------X-------X---------
+15:28:13,600  INFO TestLogger:23 – EmailId entered in the element found
+15:28:13,682  INFO TestLogger:23 – Clicked on the element found
+15:28:18,385  INFO TestLogger:23 – User registered successfully
+15:28:20,327  INFO TestLogger:23 – Clicked on logout element
+15:28:20,359  INFO TestLogger:17 – ---------X-------X---------X     ****  ****End of signin Test**** E N D ****   X---------X-------X---------
+15:28:20,359  INFO TestLogger:17 – ---------X-------X---------X     **** SignIn Test E N D ****   X---------X-------X---------
+15:28:20,418 DEBUG TestLogger:39 – The browser has closed
+15:28:20,418  INFO TestLogger:17 – ---------X-------X---------X     **** Test Case Ended E N D ****   X---------X-------X---------
+15:28:22,616 DEBUG TestLogger:39 – New driver instantiated
+15:28:23,739 DEBUG TestLogger:39 – Maximixing the browser for test
+15:28:28,832 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+15:28:28,833  INFO TestLogger:23 – The browser has started
+15:28:28,834  INFO TestLogger:12 – ---------X-------X---------X     ****LogIn Test S T A R T ****   X---------X-------X---------
+15:28:30,934  INFO TestLogger:23 – Email Id enteredhf_challenge_123456@hf123456.com
+15:28:32,666  INFO TestLogger:17 – ---------X-------X---------X     **** LogIn Test E N D ****   X---------X-------X---------
+15:28:32,723 DEBUG TestLogger:39 – The browser has closed
+15:28:32,724  INFO TestLogger:17 – ---------X-------X---------X     **** Test Case Ended E N D ****   X---------X-------X---------
+15:28:34,901 DEBUG TestLogger:39 – New driver instantiated
+15:28:36,069 DEBUG TestLogger:39 – Maximixing the browser for test
+15:28:41,426 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+15:28:41,426  INFO TestLogger:23 – The browser has started
+15:28:41,427  INFO TestLogger:12 – ---------X-------X---------X     ****This test is a failed test case to check failure in reports S T A R T ****   X---------X-------X---------
+15:28:43,475  INFO TestLogger:23 – Email Id enteredhf_challenge_123456@hf123456.com
+15:28:45,535  INFO TestLogger:23 – Captured Error Screenshot failedlogInTest_1568973481871 of test failedlogInTest
+15:28:45,622 DEBUG TestLogger:39 – The browser has closed
+15:28:45,623  INFO TestLogger:17 – ---------X-------X---------X     **** Test Case Ended E N D ****   X---------X-------X---------
+15:28:47,782 DEBUG TestLogger:39 – New driver instantiated
+15:28:48,928 DEBUG TestLogger:39 – Maximixing the browser for test
+15:28:54,486 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+15:28:54,487  INFO TestLogger:23 – The browser has started
+15:28:54,488  INFO TestLogger:12 – ---------X-------X---------X     ****Checkout Test S T A R T ****   X---------X-------X---------
+15:28:56,472  INFO TestLogger:23 – Email Id enteredhf_challenge_123456@hf123456.com
+15:29:12,915  INFO TestLogger:23 – Clicked on logout element
+15:29:12,945  INFO TestLogger:17 – ---------X-------X---------X     ****  End of Checkout Test E N D ****   X---------X-------X---------
+15:29:12,945  INFO TestLogger:17 – ---------X-------X---------X     **** Checkout Test E N D ****   X---------X-------X---------
+15:29:12,998 DEBUG TestLogger:39 – The browser has closed
+15:29:12,999  INFO TestLogger:17 – ---------X-------X---------X     **** Test Case Ended E N D ****   X---------X-------X---------
+15:42:10,159 DEBUG TestLogger:39 – New driver instantiated
+15:42:11,302 DEBUG TestLogger:39 – Maximixing the browser for test
+15:42:24,949 DEBUG TestLogger:39 – implicit wait applied on the driver in seconds
+15:42:24,949  INFO TestLogger:23 – The browser has started
+15:42:24,962  INFO TestLogger:12 – ---------X-------X---------X     ****LogIn Test S T A R T ****   X---------X-------X---------
+15:42:32,352 DEBUG TestLogger:39 – Email Id enteredhf_challenge_123456@hf123456.com

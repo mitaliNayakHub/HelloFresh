@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Web Testing]" parallel="tests">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="1" name="web-test(failed)" parallel="tests">
+    <classes>
+      <class name="com.hellofresh.challenge.WebTest">
+        <methods>
+          <include name="failedlogInTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.hellofresh.challenge.WebTest -->
+    </classes>
+  </test> <!-- web-test(failed) -->
+</suite> <!-- Failed suite [Web Testing] -->
