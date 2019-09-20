@@ -1,0 +1,32 @@
+UI Automation task
+
+Logging: 
+Here I have used log4j and TestNG reporter both. 
+log4j saves the logs in an external log file (path provided in log4j.properties file) 
+TestNG reporter shows the provided log messages in the TestNG report (test-output\html\output.html) . I have added a few in the code for reference.
+
+The reports can further be customized as per requirement.
+
+Failed Screenshots:
+The failed screenshots get saved in the provided location in config.properties file by name <testname_timestamp>
+
+Human readable report:
+For this I have used ReporterNG plugin which saves the reports in html format in test-output\html folder. The final report file is index.html file. (Note: the default listeners of testng should be disabled to run ReporterNG)  If not the testNG generated default report emailable-report.html fiel in testoutput directory. 
+
+Random Data Generation:
+I have created a method getUniqueID which I have used to generate random email_ids for the user like <"user_" + getUniqueID().substring(10) + "@hf.com">
+
+Encapsulation layers:
+Most of the test data is coming from the config file or Constants.java file. No data is hardcoded.
+I have created separate test classes and created their locators there iself. The locators and other methods in the test classes can further be optimized by creating separate methods for them too but I didn't get time to do that so I skipped it for now. 
+
+
+Parallel test execution:
+For this I have mentioned thread count in testng.xml file. 
+
+Tests on different browser:
+The browser name can be provided in the config file and the test will run on the provided browser name. I have provided firefox and chrome drivers in my code.
+
+Different URLs:
+The URL can be passed in the config file. If the user wants to run the tests on some other url he can provide the same in config.properties file itself.
+
